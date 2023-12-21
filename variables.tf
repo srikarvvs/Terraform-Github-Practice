@@ -1,4 +1,4 @@
 variable "var1" {
-  type = "String"
+  type = string
   default = "Hello World"
 }
